@@ -1,4 +1,4 @@
-package im.devan.myfirstcanvas;
+package im.devan.littlepeople;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
